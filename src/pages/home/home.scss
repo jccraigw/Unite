@@ -5,10 +5,11 @@ page-home {
 .content {
 	background-image: url(/assets/icon/home.jpg);
 	background-size: cover;
-	font: white;
+	color: light-blue;
+
 }
 
 .home-content {
-	padding: 20px;
-
+	padding: 30px;
+	border: 1px 1px solid white;
 }
